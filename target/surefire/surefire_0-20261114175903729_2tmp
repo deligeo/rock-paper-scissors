@@ -1,0 +1,8 @@
+#surefire_0
+#Sat Nov 14 17:59:03 EST 2026
+basedir=/Users/delnageorge/Documents/Java_Sample/rock-paper-scissors-master
+localRepository=/Users/delnageorge/.m2/repository
+sonar.host.url=http\://localhost\:9000
+sonar.projectKey=FirstSonar
+sonar.projectName=FirstSonar
+sonar.token=sqp_4615065c4cdfedd7050a834b8708d08d7b4363fa
